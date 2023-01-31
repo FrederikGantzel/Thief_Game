@@ -8,7 +8,7 @@ Authors: Frederik Gantzel, Max Thrane, Lars M. Bek, Emil Pedersen
 We developed the game collaborating in Unity, and using Jetbrains Rider as our C# IDE. I have reuploaded the files for the game here, as the github account originally used to develop the game was tied to my Roskilde University email (which is now defunct). For an in-depth documentation of the development process, see the project paper.
 
 ## Installation
-Download the repository and unzip it. The "Thief Game - shortcut" inside the "Thief Game" folder should already work, and you can launch the game by opening it. Alternatively, you can open the "Bachelor Game" folder in the Unity editor and do a fresh build if you'd prefer. We used Unity 2019.3.3f1 (64-bit) for the development of the game, but it will probably work with newer versions too.
+Download the repository and unzip it. The "Thief Game.exe" inside the "Thief Game/Build" folder should already work, and you can launch the game by opening it. Alternatively, you can open the "Bachelor Game" folder in the Unity editor and do a fresh build if you'd prefer. We used Unity 2019.3.3f1 (64-bit) for the development of the game, but it will probably work with newer versions too.
 
 ## Screenshots
 
