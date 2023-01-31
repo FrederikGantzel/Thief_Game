@@ -10,7 +10,7 @@ We developed the game collaborating in Unity, and using Jetbrains Rider as our C
 ## Installation
 Download the repository and unzip it. The "Thief Game - shortcut" inside the "Thief Game" folder should already work, and you can launch the game by opening it. Alternatively, you can open the "Bachelor Game" folder in the Unity editor and do a fresh build if you'd prefer. We used Unity 2019.3.3f1 (64-bit) for the development of the game, but it will probably work with newer versions too.
 
-##Screenshots
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/91853323/215686273-a659fecb-c02f-4804-94b5-5fe7062d748d.png)
 
